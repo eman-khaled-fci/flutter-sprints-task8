@@ -1,16 +1,6 @@
-# flutter_app_appbar
+# flutter_sprints_task8
+## task1
+<image src='https://user-images.githubusercontent.com/90774185/135186426-35e9a0c7-fee2-4b64-a0bd-f1825e5bd2e1.png' width='360' height='680'>
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## task2
+<image src='https://user-images.githubusercontent.com/90774185/135186212-cd0fa1f4-ee53-4e2b-a4bb-c78dbfe73b4d.png'>
